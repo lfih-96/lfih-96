@@ -77,23 +77,45 @@ Me interesa especialmente seguir desarrollando conocimientos en:
 
 ## 🚀 Proyectos destacados
 
-### 🛡️ Security Management
+### 🛡️ [Security Management](https://github.com/lfih-96/security-management_JR3)
 
 Sistema Full Stack orientado a la gestión integral de operaciones
 relacionadas con una empresa de seguridad.
 
 Actualmente se encuentra **en desarrollo**.
 
-Tecnologías principales:
+**Tecnologías principales**
 
-- JavaScript
-- Node.js
-- Express
-- PostgreSQL
+`JavaScript` · `Node.js` · `Express` · `PostgreSQL`
 
-Repositorio:
+[Ver repositorio →](https://github.com/lfih-96/security-management_JR3)
 
-**security-management_JR3**
+---
+
+### 💼 [Portfolio Profesional](https://github.com/lfih-96/portfolio)
+
+Portafolio profesional desarrollado para presentar mi formación,
+experiencia, habilidades y proyectos relacionados con desarrollo
+de software y sistemas de información.
+
+**Tecnologías**
+
+`React` · `JavaScript` · `JSX` · `CSS` · `Vite`
+
+[Ver repositorio →](https://github.com/lfih-96/portfolio)
+
+---
+
+### 🌐 [Portafolio Web](https://github.com/lfih-96/lfih-96.github.io)
+
+Primer portafolio personal desarrollado durante mi evolución
+en desarrollo web.
+
+**Tecnologías**
+
+`HTML5` · `CSS3` · `JavaScript`
+
+[Ver repositorio →](https://github.com/lfih-96/lfih-96.github.io)
 
 ---
 
